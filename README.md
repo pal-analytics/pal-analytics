@@ -1,13 +1,26 @@
 <h1 align="center">Hi 👋, I'm Pallavi Mali</h1>
-<h3 align="center">A passionate data analysts from India</h3>
+<h3 align="center">Data analysts from India</h3>
 
-- 🔭 I’m currently working on **Sql projects**
+👩‍💻 About Me
+- 🔭 Working on **SQL projects**  
+- 🌱 Learning **Cloud services**  
+- 👯 Open to collaborate on **SQL & Power BI**  
+- 🎯 Goal: Deliver business impact through data insights
+- 
+-🛠️ Skills
+- **Excel, SQL, Power BI, Python**  
+- **Statistics & ML models**  
+- **Data cleaning, KPI dashboards, business storytelling** 
 
-- 🌱 I’m currently learning **Cloud services**
+### 📂 Projects
+- 📊 **SQL Case Studies** — KPI reporting & insights  
+- 📈 **Excel Dashboards** — Interactive & automated  
+- 🔍 **Power BI Reports** — Business-focused visuals  
+- 🤖 **Python ML Models** — Predictive analytics 
+  
 
-- 👯 I’m looking to collaborate on **SQL and Power bi projects**
+- 📫 How to reach me **palsmali10@gmail.com** / **www.linkedin.com/in/pallavimali01**
 
-- 📫 How to reach me **palsmali10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
