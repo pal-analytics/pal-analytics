@@ -13,10 +13,7 @@
 - **Data cleaning, KPI dashboards, business storytelling** 
 
 ### 📂 Projects
-- 📊 **SQL Case Studies** — KPI reporting & insights  
-- 📈 **Excel Dashboards** — Interactive & automated  
-- 🔍 **Power BI Reports** — Business-focused visuals  
-- 🤖 **Python ML Models** — Predictive analytics 
+- 📊 I've got a bunch of pinned projects, but my favorite one is Credit Card Fraud Analysis. 
   
 
 - 📫 How to reach me **palsmali10@gmail.com** / **www.linkedin.com/in/pallavimali01**
