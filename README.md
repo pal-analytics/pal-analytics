@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I'm Pallavi Mali</h1>
-<h3 align="center">Data analysts from India</h3>
+<h3 align="center">Data analysts | SQL • Power BI • Python | Turning data into business insights India</h3>
 
 👩‍💻 About Me
-- 🔭 Working on **SQL projects**  
-- 🌱 Learning **Cloud services**  
+I’m a Data Analyst with 3+ years of experience in finance and insurance operations, focused on transforming raw data into actionable insights.
+I enjoy working on SQL-driven analysis, KPI dashboards, and business problem solving.
+- 🔭 Currently building end-to-end SQL & analytics projects  
+- 🌱 Learning Cloud fundamentals for data analytics  
 - 👯 Open to collaborate on **SQL & Power BI**  
 - 🎯 Goal: Deliver business impact through data insights
 - 
 -🛠️ Skills
-- **Excel, SQL, Power BI, Python**  
-- **Statistics & ML models**  
-- **Data cleaning, KPI dashboards, business storytelling** 
+-Data Analysis: SQL (MySQL, Oracle, MS SQL), Excel
+-Visualization: Power BI (DAX, Power Query)
+-Programming: Python (Pandas, NumPy, basic ML models)
+-Analytics: Statistics, data cleaning, KPI design, business storytelling 
 
 ### 📂 Projects
-- 📊 I've got a bunch of pinned projects, but my favorite one is Credit Card Fraud Analysis. 
+- 📊 I have multiple pinned analytics projects on GitHub.
+⭐ Featured Project: Credit Card Fraud Analysis
+-Built ML models to detect fraudulent transactions
+-Performed data cleaning, feature engineering & model evaluation
+-Delivered insights through dashboards and reports 
   
-
 - 📫 How to reach me **palsmali10@gmail.com** / **www.linkedin.com/in/pallavimali01**
 
 
