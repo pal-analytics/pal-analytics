@@ -8,8 +8,8 @@ I enjoy working on SQL-driven analysis, KPI dashboards, and business problem sol
 - 🌱 Learning Cloud fundamentals for data analytics  
 - 👯 Open to collaborate on **SQL & Power BI**  
 - 🎯 Goal: Deliver business impact through data insights
-- 
--🛠️ Skills
+  
+🛠️ Skills
 -Data Analysis: SQL (MySQL, Oracle, MS SQL), Excel
 -Visualization: Power BI (DAX, Power Query)
 -Programming: Python (Pandas, NumPy, basic ML models)
@@ -22,7 +22,7 @@ I enjoy working on SQL-driven analysis, KPI dashboards, and business problem sol
 -Performed data cleaning, feature engineering & model evaluation
 -Delivered insights through dashboards and reports 
   
-- 📫 How to reach me **palsmali10@gmail.com** / **www.linkedin.com/in/pallavimali01**
+  📫 How to reach me **palsmali10@gmail.com** / **www.linkedin.com/in/pallavimali01**
 
 
 <h3 align="left">Connect with me:</h3>
